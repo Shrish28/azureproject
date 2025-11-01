@@ -1,0 +1,9 @@
+{
+	"name": "df-ssinghazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7192a3f-c849-474c-b4bd-dcb3be75ecdb",
+		"tenantId": "f37dc3f9-a57b-4a93-bbd7-2c7b30f03fec"
+	}
+}
